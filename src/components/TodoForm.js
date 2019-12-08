@@ -26,6 +26,7 @@ export default function TodoForm() {
           className="form-control"
           placeholder="Add your Todo"
           value={todo}
+          required
           onChange={e => setTodo(e.target.value)}
         />
         <button className="btn btn-success btn-block mt-3">Add Todo</button>
