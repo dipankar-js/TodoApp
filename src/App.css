@@ -1,7 +1,14 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab|Solway&display=swap");
 
 .form {
   width: 60%;
   margin: auto;
   font-family: "Roboto Slab", serif;
+}
+
+.delete {
+  font-size: 20px;
+  color: rgb(18, 198, 230);
+  cursor: pointer;
+  margin-top: 15px;
 }
