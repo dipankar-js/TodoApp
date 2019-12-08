@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Click here for a [Live Demo](https://react-todo-dipankar.netlify.com/).
 
- ### ` This app is hosted on Netlify.Click here for a [Live Demo](https://react-todo-dipankar.netlify.com/).`
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
