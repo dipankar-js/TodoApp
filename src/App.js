@@ -1,11 +1,14 @@
 import React from "react";
 import "./App.css";
 import TodoForm from "./components/TodoForm";
+import TodoContextProvider from "./contexts/TodoContext";
 
 function App() {
   return (
     <div>
-      <TodoForm />
+      <TodoContextProvider>
+        <TodoForm />
+      </TodoContextProvider>
     </div>
   );
 }
